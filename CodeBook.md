@@ -5,8 +5,7 @@ gcdproject CodeBook
 For each record it is provided:
 
 
-1. Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
-2. Triaxial Angular velocity from the gyroscope. 
-3. A 561-feature vector with time and frequency domain variables. 
-4. Its activity label. 
-5. An identifier of the subject who carried out the experiment.
+1. subject: integer - An identifier of the subject who carried out the experiment. 
+2. activity: ts activity label. 
+3;81   average of each variable for the identified suject and activity
+
