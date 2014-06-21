@@ -1,3 +1,4 @@
+library(data.table)
 runanalysis <- function() {
         
         #load support files
